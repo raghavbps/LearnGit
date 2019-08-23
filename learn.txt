@@ -1,3 +1,4 @@
 Hello World!!
 Merge
+Rebase
 Changes in the remote now fetch the changes!!
