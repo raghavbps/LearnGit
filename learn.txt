@@ -1,3 +1,6 @@
+First commit, third
+Second commit, third
+Third commit
 Hello World!!
 Merge
 Rebase

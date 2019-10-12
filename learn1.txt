@@ -1,3 +1,6 @@
+First commit changes
+Second commit changes
+Third commit
 Hello
 Merge
 Git Stash
